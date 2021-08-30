@@ -1,0 +1,23 @@
+{
+  "name": "ml-consulta",
+  "version": "1.0.0",
+  "description": "clon de mercado liebre clase de consulta DH",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carol-github/ml-consulta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carol-github/ml-consulta/issues"
+  },
+  "homepage": "https://github.com/Carol-github/ml-consulta#readme"
+}
